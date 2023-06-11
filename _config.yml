@@ -95,7 +95,7 @@ content:
           Através de princípios de construção enxuta, auxilio os clientes na otimização de operações, redução de desperdícios e aumento da produtividade.
           Também apoio a transformação digital, impulsionando inovação e eficiência.
 
-  - title: Experience # Title for the section
+  - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -113,7 +113,7 @@ content:
           Elaborei e revisei documentos relacionados à metodologia e aos projetos.
           Atuei na automação de processos, inovação e transformação das rotinas do setor, mudando as formas de controle por meio do uso de ferramentas atuais com baixo ou nenhum custo.
 
-  - title: Experience # Title for the section
+  - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -142,6 +142,32 @@ content:
         description: | # this will include new lines to allow paragraphs
           Estudo com foco na area de Otimização Combinatoria: Heuristicas Computacionais, Programação Linear Inteira, Industria 4.0 e Princípios de Modelagem Matemática.
           Utilização de Linguagem de Programação Python e C++.
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Centro Universitario Métodista Izabela Hendrix
+        caption: 2015 - 2018
+        sub_title: BSc Engenharia de Produção
+        quote: >
+          O Centro Universitário Metodista Izabela Hendrix é uma Instituição Confessional Comunitária de Educação Superior, nos termos da Lei nº 12.881, de 12 de novembro de 2013.
+          Isso significa que tem um modelo diferenciado de atuação, cujas características são marcadas pela natureza pública de seus atos instituidores, pela regionalidade de atuação e pelo seu comprometimento com o processo de desenvolvimento de Minas Gerais,
+          especialmente na Região Metropolitana de Belo Horizonte.
+          Em 2017, a publicação Guia do Estudante, da Editora Abril, avaliou os cursos de graduação oferecidos pelo Centro Universitário e considerou o Izabela Hendrix como o melhor centro universitário privado de Minas Gerais.
+        description: | # this will include new lines to allow paragraphs
+          Estudo com foco na area de Otimização Combinatoria e Planejamento e Controle da Produção: Estudos em sistemas eletricos, mecanicos e fundamentos de ciencia dos materiais graduação com ênfase em métodos de tomada de decisão baseados em dados: Pesquisa Operacional: Otimização e Simulação de Eventos Discretos. 
+
+  - title:  # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title:  Business School Brasil - Escola de Negócios
+          caption: 2021 - 2023
+          sub_title: MBA em Pesquisa Operacional e Tomada de Decisão
+          description: | # this will include new lines to allow paragraphs
+            Métodos de tomada de decisão baseados em dados, modelagem matemática e computacional de problemas de tomada de decisão em horizontes operacionais, 
+            táticos e estratégicos, utilizando técnicas de tomada de decisão multicritério e otimização combinatorial.  
 
 
   - title: A Little More About Me
