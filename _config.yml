@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Lucas Tayrone
-title: Senior Consultant
+name: Lucas Tayrone Moreira
+title: Senior Consultant Supply Chain and Operations
 email: lucas.tayrone@hotmail.com
 website: www.github.com/ltayrone
 
@@ -45,20 +45,19 @@ linkedin_username: lucastayrone-data-analyst
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Olá, meu nome é Lucas Tayrone, e sou um Consultor Sênior especializado em Supply Chain, Engenheiro de Produção e Segurança do Trabalho. 
-    Tenho uma ampla experiência em Business Intelligence e Pesquisa Operacional, com foco na aplicação de algoritmos de otimização combinatória. 
-    Atualmente, estou em um momento de transição de carreira para a área de Data Science, com um enfoque específico em algoritmos de otimização exatos e heurísticos.
-    Tenho uma formação acadêmica sólida, além de estar atualmente cursando um mestrado em Modelagem Matemática e Computacional. 
-    Essa trajetória acadêmica me proporcionou uma base sólida em análise de dados e habilidades avançadas em programação. 
-    Estou constantemente buscando atualizações e aprimoramento em minha área de atuação, com o objetivo de entregar soluções eficazes e inovadoras para meus clientes.
-    Tenho paixão por desafios complexos e gosto de aplicar minha expertise para encontrar soluções personalizadas que impulsionem a eficiência operacional e a tomada de decisões estratégicas.
-    Estou sempre em busca de novas oportunidades para aplicar minha experiência e conhecimentos em projetos de otimização de alto impacto.
-
-    Além disso, possuo uma vasta experiência trabalhando como consultor em grandes empresas do setor de Supply Chain, onde desenvolvi soluções estratégicas para otimização de processos e redução de custos.
-    Ao longo da minha carreira, tive a oportunidade de liderar equipes multidisciplinares e implementar mudanças efetivas nos fluxos de produção.
-    Estou entusiasmado em adentrar a área de Data Science, onde poderei aplicar meu conhecimento em algoritmos de otimização em conjunto com técnicas de aprendizado de máquina e análise de dados. 
-    Tenho interesse especial em desenvolver soluções que impulsionem a eficiência operacional e a tomada de decisões estratégicas nas empresas.
-    Minhas principais habilidades são: <mark>Power BI</mark>, <mark>Analise Exploratória</mark>, <mark>Modelagem Matemática</mark>, <mark>Pesquisa Operacional</mark>.
+  Olá, meu nome é Lucas Tayrone, e sou um Consultor Sênior especializado em Supply Chain, Engenheiro de Produção e Segurança do Trabalho. 
+  Tenho uma ampla experiência em Business Intelligence e Pesquisa Operacional, com foco na aplicação de algoritmos de otimização combinatória. 
+  Atualmente, estou em um momento de transição de carreira para a área de Data Science, com um enfoque específico em algoritmos de otimização exatos e heurísticos.
+  Tenho uma formação acadêmica sólida, além de estar atualmente cursando um mestrado em Modelagem Matemática e Computacional. 
+  Essa trajetória acadêmica me proporcionou uma base sólida em análise de dados e habilidades avançadas em programação. 
+  Estou constantemente buscando atualizações e aprimoramento em minha área de atuação, com o objetivo de entregar soluções eficazes e inovadoras para meus clientes.
+  Tenho paixão por desafios complexos e gosto de aplicar minha expertise para encontrar soluções personalizadas que impulsionem a eficiência operacional e a tomada de decisões estratégicas.
+  Estou sempre em busca de novas oportunidades para aplicar minha experiência e conhecimentos em projetos de otimização de alto impacto.
+  Além disso, possuo uma vasta experiência trabalhando como consultor em grandes empresas do setor de Supply Chain, onde desenvolvi soluções estratégicas para otimização de processos e redução de custos.
+  Ao longo da minha carreira, tive a oportunidade de liderar equipes multidisciplinares e implementar mudanças efetivas nos fluxos de produção.
+  Estou entusiasmado em adentrar a área de Data Science, onde poderei aplicar meu conhecimento em algoritmos de otimização em conjunto com técnicas de aprendizado de máquina e análise de dados. 
+  Tenho interesse especial em desenvolver soluções que impulsionem a eficiência operacional e a tomada de decisões estratégicas nas empresas.
+  Minhas principais habilidades são: <mark>Power BI</mark>, <mark>Analise Exploratória</mark>, <mark>Modelagem Matemática</mark>, <mark>Pesquisa Operacional</mark>.
 
 #content:
   - title: Experience # Title for the section
