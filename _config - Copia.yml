@@ -123,7 +123,7 @@ content:
         sub_title: Business Improvement Analyst | Business Analyst 
         caption: Maio 2019 - Junho 2020
         quote: >
-         Business Improvement Analyst | Business Analyst 
+         Business Analyst
         description: | # this will include new lines to allow paragraphs
           Realizei o monitoramento dos cronogramas de processo de produção. Monitorei riscos operacionais, desvios operacionais e de processos. 
           Desenvolvi planos de melhoria contínua e controle de custos e variações operacionais. Elaborei planos preventivos contra acidentes e incidentes nos postos de trabalho. 
@@ -170,12 +170,10 @@ content:
           táticos e estratégicos, utilizando técnicas de tomada de decisão multicritério e otimização combinatorial.  
 
 
-  - title: Um pouco mais sobre mim
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Mineiro apaixonado por café e adepto do movimento de aprendizagem contínua! Busco constantemente aprender sobre diversos assuntos nas horas vagas, além de adorar um bom papo com os amigos e ser fã da cultura japonesa.
-      Nos momentos livres, dedico-me a aprender novos temas em todas as áreas de conhecimento, enquanto também jogo jogos digitais do gênero MMO RPG ou MOBA. Tenho facilidade em assimilar novos conceitos e sou uma pessoa muito comunicativa. 
-      Utilizo essas habilidades para transmitir informações contidas nos dados de forma que todos possam compreender o valor que está por trás deles.
+        Apaixonado por aprendizado e por culinaria amadora, divido o meu tempo entre esses temas e jogos digitais de MMO RPG e Moba.
 
 # Footer
 footer_show_references: true
