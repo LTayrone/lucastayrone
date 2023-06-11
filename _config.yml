@@ -130,6 +130,7 @@ content:
           Gerenciei as boas Práticas de Fabricação baseadas no Ciclo PDCA. Identifiquei desperdícios e não conformidades nos processos de produção. Realizei o controle do setor e 
           gestão de projetos de Saúde, Segurança e Meio Ambiente. Bem comoa realização de monitorar os procedimentos de Saúde, Segurança e Meio Ambiente e indicadores de desempenho (KPIs) na área de EHS. 
 
+content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -159,15 +160,15 @@ content:
           Estudo com foco na area de Otimização Combinatoria e Planejamento e Controle da Produção: Estudos em sistemas eletricos, mecanicos e fundamentos de ciencia dos materiais graduação com ênfase em métodos de tomada de decisão baseados em dados: Pesquisa Operacional: Otimização e Simulação de Eventos Discretos. 
 
   - title: Education # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title:  Business School Brasil - Escola de Negócios
-          caption: 2021 - 2023
-          sub_title: MBA em Pesquisa Operacional e Tomada de Decisão
-          description: | # this will include new lines to allow paragraphs
-            Métodos de tomada de decisão baseados em dados, modelagem matemática e computacional de problemas de tomada de decisão em horizontes operacionais, 
-            táticos e estratégicos, utilizando técnicas de tomada de decisão multicritério e otimização combinatorial.  
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  Business School Brasil - Escola de Negócios
+        caption: 2021 - 2023
+        sub_title: MBA em Pesquisa Operacional e Tomada de Decisão
+        description: | # this will include new lines to allow paragraphs
+          Métodos de tomada de decisão baseados em dados, modelagem matemática e computacional de problemas de tomada de decisão em horizontes operacionais, 
+          táticos e estratégicos, utilizando técnicas de tomada de decisão multicritério e otimização combinatorial.  
 
 
   - title: A Little More About Me
