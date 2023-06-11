@@ -15,7 +15,7 @@ website: www.github.com/ltayrone
 darkmode: true
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  LTayrone
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -23,7 +23,6 @@ github_username:  LTayrone
 # flickr_username: jekyll
 instagram_username: tayrone.lucas
 linkedin_username: lucastayrone-data-analyst
-
 # youtube_username: globalmtb
 
 
@@ -44,34 +43,22 @@ linkedin_username: lucastayrone-data-analyst
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/lucas.jpg
 about_content: | # this will include new lines to allow paragraphs
- Olá, meu nome é Lucas Tayrone, sou Consultor Sênior de Supply Chain, Engenheiro de Produção e Segurança do Trabalho com especialização em Business Inteligence e Pesquisa Operacional.
- Atualmente sou estudante de mestrado no programa de Modelagem Matematica e Computacional, com foco em algoritmos de otimização combinatoria. Em fase de transição de carreira para area de Data Science com foco
- em algoritmos de otimização exatos e heuristicos. 
+Olá, meu nome é Lucas Tayrone. Sou um Consultor Sênior de Supply Chain, Engenheiro de Produção e Segurança do Trabalho, com especialização em Business Intelligence e Pesquisa Operacional. 
+Atualmente, estou cursando o mestrado em Modelagem Matemática e Computacional, com foco em algoritmos de otimização combinatória.
+Estou em uma fase de transição de carreira para a área de Data Science, com ênfase em algoritmos de otimização exatos e heurísticos.
 
-  Minhas principais habilidades são: <mark>Power BI</mark>, <mark>Analise Exploratória</mark>, <mark>Modelagem Matemática</mark>
+about_content: | # this will include new lines to allow paragraphs
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+Além disso, possuo uma vasta experiência trabalhando como consultor em grandes empresas do setor de Supply Chain, onde desenvolvi soluções estratégicas para otimização de processos e redução de custos.
+Ao longo da minha carreira, tive a oportunidade de liderar equipes multidisciplinares e implementar mudanças efetivas nos fluxos de produção.
+Estou entusiasmado em adentrar a área de Data Science, onde poderei aplicar meu conhecimento em algoritmos de otimização em conjunto com técnicas de aprendizado de máquina e análise de dados. 
+Tenho interesse especial em desenvolver soluções que impulsionem a eficiência operacional e a tomada de decisões estratégicas nas empresas.
 
+  Minhas principais habilidades são: <mark>Power BI</mark>, <mark>Analise Exploratória</mark>, <mark>Modelagem Matemática</mark>, <mark>Pesquisa Operacional</mark>
+
+#content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -82,9 +69,11 @@ content:
         sub_title: Senior Consultant Supply Chain and Operations
         caption: Setembro 2021 - Present
         quote: >
-          Atuação estrategica com os cliente em toda cadeia de valor, proposta de melhoria de processos e tomada de decisão baseada em dados.
+          Senior Consultant em Supply Chain and Operations com foco em Mineração e Metais.
         description: | # this will include new lines to allow paragraphs
-            Em construção ....
+          Especialista em diagnóstico, implementação de processos e desenvolvimento de negócios.
+          Conectado globalmente para fornecer soluções de alto valor aos clientes. Agente transformador, identificando riscos e oportunidades para impulsionar resultados excepcionais.
+          Utilizo técnicas avançadas de análise de dados e mapeamento de processos para identificar oportunidades de melhoria e propor soluções de alto valor para nossos clientes.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,7 +85,8 @@ content:
         quote: >
           O Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG) é uma autarquia federal brasileira, vinculada ao Ministério da Educação, que oferece ensino médio, cursos técnicos, superiores, pós stricto sensu e lato sensu, contemplando também, de forma indissociada, o ensino, a pesquisa e a extensão, na área tecnológica e no âmbito da pesquisa aplicada.
         description: | # this will include new lines to allow paragraphs
-          em construção...
+          Estudo com foco na area de Otimização Combinatoria: Heuristicas Computacionais, Programação Linear Inteira, Industria 4.0 e Princípios de Modelagem Matemática.
+          Utilização de Linguagem de Programação Python e C++.
 
 
   - title: A Little More About Me
