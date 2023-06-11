@@ -125,10 +125,10 @@ content:
         quote: >
          Business Analyst
         description: | # this will include new lines to allow paragraphs
-          Realizei o monitoramento dos cronogramas de processo de produção. Monitorei riscos operacionais e controlo tempos médios de produção, desvios operacionais e de processos. 
-          Desenvolvi planos de melhoria contínua e controlo os custos e variações operacionais. Elaborei planos preventivos contra acidentes e incidentes nos postos de trabalho. 
-          Gerenciei as Boas Práticas de Fabricação baseadas no Ciclo PDCA. Identifiquei desperdícios e não conformidades nos processos de produção. Realizei o controle do setor. 
-          Realizei a gestão de projetos de Saúde, Segurança e Meio Ambiente. Monitorei os procedimentos de Saúde, Segurança e Meio Ambiente e controlei os indicadores de desempenho (KPIs) na área de EHS. 
+          Realizei o monitoramento dos cronogramas de processo de produção. Monitorei riscos operacionais, desvios operacionais e de processos. 
+          Desenvolvi planos de melhoria contínua e controle de custos e variações operacionais. Elaborei planos preventivos contra acidentes e incidentes nos postos de trabalho. 
+          Gerenciei as boas Práticas de Fabricação baseadas no Ciclo PDCA. Identifiquei desperdícios e não conformidades nos processos de produção. Realizei o controle do setor e 
+          gestão de projetos de Saúde, Segurança e Meio Ambiente. Bem comoa realização de monitorar os procedimentos de Saúde, Segurança e Meio Ambiente e indicadores de desempenho (KPIs) na área de EHS. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
