@@ -75,6 +75,60 @@ Tenho interesse especial em desenvolver soluções que impulsionem a eficiência
           Conectado globalmente para fornecer soluções de alto valor aos clientes. Agente transformador, identificando riscos e oportunidades para impulsionar resultados excepcionais.
           Utilizo técnicas avançadas de análise de dados e mapeamento de processos para identificar oportunidades de melhoria e propor soluções de alto valor para nossos clientes.
 
+#content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Alvarez & Marsal
+        link: www.alvarezandmarsal.com/pt-br
+        # link_text: boringcompany.com
+        sub_title: Consultant I&CP | Infrastructure & Capital Projects 
+        caption: Abril 2021 - Setembro 2021
+        quote: >
+          Consultant em Infrastructure & Capital Projects com foco em Construção Civil Pesada.
+        description: | # this will include new lines to allow paragraphs
+          Como Advisor em Infraestrutura e Projetos de Capital, atuo em diversas áreas-chave, incluindo infraestrutura, estratégias de aquisição, monitoramento de construção, construção enxuta, reestruturação do negócio central, escritório enxuto e transformação digital. Com vasto conhecimento e experiência, otimizo projetos de infraestrutura, garantindo eficiência, economia e entrega pontual. Ofereço aconselhamento estratégico em processos de aquisição, permitindo decisões informadas e alcançando metas de projeto. Além disso, forneço serviços abrangentes de monitoramento de construção, garantindo que os projetos atendam aos padrões de qualidade e requisitos de conformidade.
+          Através de princípios de construção enxuta, auxilio os clientes na otimização de operações, redução de desperdícios e aumento da produtividade.
+          Também apoio a transformação digital, impulsionando inovação e eficiência.
+
+#content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Drogaria Araujo
+        link: www.araujo.com.br
+        # link_text: boringcompany.com
+        sub_title: Continuous Improvement Analyst | Internal Consultant 
+        caption: Junho 2020 - Abril 2021
+        quote: >
+         Lean Specialist - Kaizen Practitioner.
+        description: | # this will include new lines to allow paragraphs
+          Trabalhei como consultor interno especializado em Kaizen na rede de farmácias Araújo.
+          Responsável por implementar e apoiar o sistema de gestão e projetos de melhoria baseados na metodologia Kaizen.
+          Ofereci suporte metodológico para sustentar, manter e desenvolver o programa na empresa.
+          Elaborei e revisei documentos relacionados à metodologia e aos projetos.
+          Atuei na automação de processos, inovação e transformação das rotinas do setor, mudando as formas de controle por meio do uso de ferramentas atuais com baixo ou nenhum custo.
+
+#content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Anglogold Ashanti
+        link: www.anglogoldashanti.com.br
+        # link_text: boringcompany.com
+        sub_title: Business Improvement Analyst | Business Analyst 
+        caption: Maio 2019 - Junho 2020
+        quote: >
+         Business Analyst
+        description: | # this will include new lines to allow paragraphs
+          Realizei o monitoramento dos cronogramas de processo de produção. Monitorei riscos operacionais e controlo tempos médios de produção, desvios operacionais e de processos. 
+          Desenvolvi planos de melhoria contínua e controlo os custos e variações operacionais. Elaborei planos preventivos contra acidentes e incidentes nos postos de trabalho. 
+          Gerenciei as Boas Práticas de Fabricação baseadas no Ciclo PDCA. Identifiquei desperdícios e não conformidades nos processos de produção. Realizei o controle do setor. 
+          Realizei a gestão de projetos de Saúde, Segurança e Meio Ambiente. Monitorei os procedimentos de Saúde, Segurança e Meio Ambiente e controlei os indicadores de desempenho (KPIs) na área de EHS. 
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -92,14 +146,7 @@ Tenho interesse especial em desenvolver soluções que impulsionem a eficiência
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        Apaixonado por aprendizado e por culinaria amadora, divido o meu tempo entre esses temas e jogos digitais de MMO RPG e Moba.
 
 # Footer
 footer_show_references: true
