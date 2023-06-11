@@ -45,7 +45,6 @@ linkedin_username: lucastayrone-data-analyst
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Olá, meu nome é Lucas Tayrone, e sou um Consultor Sênior especializado em Supply Chain, Engenheiro de Produção e Segurança do Trabalho. 
   Tenho uma ampla experiência em Business Intelligence e Pesquisa Operacional, com foco na aplicação de algoritmos de otimização combinatória. 
   Atualmente, estou em um momento de transição de carreira para a área de Data Science, com um enfoque específico em algoritmos de otimização exatos e heurísticos.
   Tenho uma formação acadêmica sólida, além de estar atualmente cursando um mestrado em Modelagem Matemática e Computacional. 
@@ -59,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   Tenho interesse especial em desenvolver soluções que impulsionem a eficiência operacional e a tomada de decisões estratégicas nas empresas.
   Minhas principais habilidades são: <mark>Power BI</mark>, <mark>Analise Exploratória</mark>, <mark>Modelagem Matemática</mark>, <mark>Pesquisa Operacional</mark>.
 
-#content:
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -76,7 +75,7 @@ about_content: | # this will include new lines to allow paragraphs
           Conectado globalmente para fornecer soluções de alto valor aos clientes. Agente transformador, identificando riscos e oportunidades para impulsionar resultados excepcionais.
           Utilizo técnicas avançadas de análise de dados e mapeamento de processos para identificar oportunidades de melhoria e propor soluções de alto valor para nossos clientes.
 
-#content:
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -93,7 +92,7 @@ about_content: | # this will include new lines to allow paragraphs
           Através de princípios de construção enxuta, auxilio os clientes na otimização de operações, redução de desperdícios e aumento da produtividade.
           Também apoio a transformação digital, impulsionando inovação e eficiência.
 
-#content:
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -112,7 +111,7 @@ about_content: | # this will include new lines to allow paragraphs
           Elaborei e revisei documentos relacionados à metodologia e aos projetos.
           Atuei na automação de processos, inovação e transformação das rotinas do setor, mudando as formas de controle por meio do uso de ferramentas atuais com baixo ou nenhum custo.
 
-#content:
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
