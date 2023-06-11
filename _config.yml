@@ -48,16 +48,18 @@ about_content: | # this will include new lines to allow paragraphs
   Tenho uma ampla experiência em Business Intelligence e Pesquisa Operacional, com foco na aplicação de algoritmos de otimização combinatória. 
   Atualmente, estou em um momento de transição de carreira para a área de Data Science, com um enfoque específico em algoritmos de otimização exatos e heurísticos.
   Tenho uma formação acadêmica sólida, além de estar atualmente cursando um mestrado em Modelagem Matemática e Computacional. 
-  Essa trajetória acadêmica me proporcionou uma base sólida em análise de dados e habilidades avançadas em programação. 
+  Essa trajetória acadêmica me proporcionou uma base sólida em análise de dados e habilidades avançadas em programação unificados ao meu perfil multidisciplinar de consultoria. 
+
   Estou constantemente buscando atualizações e aprimoramento em minha área de atuação, com o objetivo de entregar soluções eficazes e inovadoras para meus clientes.
   Tenho paixão por desafios complexos e gosto de aplicar minha expertise para encontrar soluções personalizadas que impulsionem a eficiência operacional e a tomada de decisões estratégicas.
   Estou sempre em busca de novas oportunidades para aplicar minha experiência e conhecimentos em projetos de otimização de alto impacto.
-  Além disso, possuo uma vasta experiência trabalhando como consultor em grandes empresas do setor de Supply Chain, onde desenvolvi soluções estratégicas para otimização de processos e redução de custos.
+
+  Além disso, possuo uma vasta experiência trabalhando como consultor em grandes empresas do setor de consultoria, onde desenvolvi soluções estratégicas para otimização de processos e redução de custos.
   Ao longo da minha carreira, tive a oportunidade de liderar equipes multidisciplinares e implementar mudanças efetivas nos fluxos de produção.
   Estou entusiasmado em adentrar a área de Data Science, onde poderei aplicar meu conhecimento em algoritmos de otimização em conjunto com técnicas de aprendizado de máquina e análise de dados. 
   
   Tenho interesse especial em desenvolver soluções que impulsionem a eficiência operacional e a tomada de decisões estratégicas nas empresas.
-  Minhas principais habilidades são: <mark>Power BI</mark>, <mark>Analise Exploratória</mark>, <mark>Modelagem Matemática</mark>, <mark>Pesquisa Operacional</mark>.
+  Minhas principais habilidades são: <mark>Diagnóstico e Modelagem de Processos</mark>, <mark>Power BI</mark>, <mark>Analise Exploratória</mark>, <mark>Modelagem Matemática</mark>, <mark>Pesquisa Operacional</mark>.
 
 content:
   - title: Experience # Title for the section
@@ -76,7 +78,7 @@ content:
           Conectado globalmente para fornecer soluções de alto valor aos clientes. Agente transformador, identificando riscos e oportunidades para impulsionar resultados excepcionais.
           Utilizo técnicas avançadas de análise de dados e mapeamento de processos para identificar oportunidades de melhoria e propor soluções de alto valor para nossos clientes.
 
-content:
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -93,7 +95,6 @@ content:
           Através de princípios de construção enxuta, auxilio os clientes na otimização de operações, redução de desperdícios e aumento da produtividade.
           Também apoio a transformação digital, impulsionando inovação e eficiência.
 
-content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -112,7 +113,6 @@ content:
           Elaborei e revisei documentos relacionados à metodologia e aos projetos.
           Atuei na automação de processos, inovação e transformação das rotinas do setor, mudando as formas de controle por meio do uso de ferramentas atuais com baixo ou nenhum custo.
 
-content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
