@@ -43,7 +43,7 @@ linkedin_username: lucastayrone-data-analyst
 
 # About Section
 # about_title: About Me
-about_profile_image: images/lucas.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 Olá, meu nome é Lucas Tayrone, e sou um Consultor Sênior especializado em Supply Chain, Engenheiro de Produção e Segurança do Trabalho. 
 Tenho uma ampla experiência em Business Intelligence e Pesquisa Operacional, com foco na aplicação de algoritmos de otimização combinatória. 
